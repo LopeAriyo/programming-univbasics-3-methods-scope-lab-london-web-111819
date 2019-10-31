@@ -12,3 +12,8 @@ def link
   warning = "It's Dangerous To Go Alone! Take This."
   puts warning
 end
+
+def any_phrase
+  warning = "Do A Barrel Roll!"
+  puts warning
+end
