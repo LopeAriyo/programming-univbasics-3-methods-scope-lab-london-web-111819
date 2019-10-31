@@ -14,6 +14,6 @@ def link
 end
 
 def any_phrase
-  warning = "Do A Barrel Roll!"
-  puts warning
+  phrase = "Do A Barrel Roll!"
+  puts phrase
 end
